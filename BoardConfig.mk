@@ -146,6 +146,7 @@ TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel0-backlight/brightness"
 TW_DEFAULT_BRIGHTNESS := 1200
 TW_Y_OFFSET := 0
 #TW_H_OFFSET := -35
+TW_FRAMERATE := 60
 TARGET_USES_MKE2FS := true
 TW_NO_SCREEN_BLANK := true
 TW_EXCLUDE_APEX := true
