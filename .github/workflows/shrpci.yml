@@ -8,7 +8,7 @@ on:
 env:
   MANIFEST: "https://github.com/SHRP/manifest -b shrp-12.1"
   # Recovery Manifest URL with -b branch
-  DT_LINK: "https://github.com/SHRP-Devices/device_xiaomi_surya"
+  DT_LINK: "https://github.com/infinixs5lite/android_device_xiaomi_surya"
   # Your Device Tree Link
   VENDOR: "xiaomi"
   # Your Device's Vendor name as in used inside DT. Example: xiaomi, samsung, asus, etc.
